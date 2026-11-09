@@ -49,3 +49,29 @@ Lighthouse Mobile (08/11/2026):
 
 ## Pendiente obligatorio
 Verificar enlaces del proyecto y completar, con evidencias reales, el caso Coffea y los resultados de usabilidad. Revisar la correspondencia final con Figma.
+
+## Pruebas de usabilidad
+
+Se realizó una prueba de usabilidad con tres participantes utilizando el portfolio publicado en GitHub Pages.
+
+**Tareas evaluadas:**
+1. Encontrar las tecnologías y herramientas utilizadas.
+2. Explorar el caso de estudio Coffea y regresar al portfolio.
+3. Localizar el correo electrónico de contacto.
+
+**Resultados:**
+- Participantes: 3.
+- Tareas completadas: 9 de 9 (100 %).
+- Los tres participantes lograron completar las tareas propuestas.
+
+**Problema detectado:**
+
+Una participante informó que la imagen del caso Coffea aparecía en blanco y no se visualizaba correctamente.
+
+**Corrección realizada:**
+
+Se identificó que faltaban archivos de la carpeta `assets` en el repositorio. Se incorporaron los archivos correspondientes y se verificó que la imagen se visualizara correctamente en el sitio publicado.
+
+**Conclusión:**
+
+Las tareas pudieron completarse y la evaluación permitió detectar y corregir un problema real de visualización.
