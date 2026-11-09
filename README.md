@@ -3,7 +3,7 @@
 Portfolio web personal realizado como trabajo final de Diseño UX/UI 2026.
 
 ## Sitio publicado
-Pendiente de agregar después de habilitar GitHub Pages.
+https://sofiferuader1.github.io/portfolio-minimal-tech/
 
 ## Figma
 Pendiente: pegar el enlace público de visualización del archivo Figma.
@@ -41,7 +41,11 @@ Se utilizó asistencia de IA para proponer contenido, documentación y generar u
 Los botones «Enviar email» y «Correo electrónico» abren Gmail en el navegador; la dirección visible conserva su enlace `mailto:` conforme a la consigna. LinkedIn y GitHub están enlazados a los perfiles proporcionados.
 
 ## Capturas y Lighthouse
-Pendientes de agregar: capturas desktop/mobile, pruebas de usabilidad y captura Lighthouse en mobile (objetivo: 90+ en las cuatro métricas).
+Lighthouse Mobile (08/11/2026):
+- Performance: 98
+- Accessibility: 96
+- Best Practices: 100
+- SEO: 100
 
 ## Pendiente obligatorio
-Completar un perfil LinkedIn real; el enunciado solicita explícitamente LinkedIn. Verificar enlaces del proyecto y completar, con evidencias reales, el caso Coffea y los resultados de usabilidad. Revisar la correspondencia final con Figma.
+Verificar enlaces del proyecto y completar, con evidencias reales, el caso Coffea y los resultados de usabilidad. Revisar la correspondencia final con Figma.
