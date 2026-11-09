@@ -28,7 +28,7 @@ La investigación, proto-persona, benchmark, moodboard, sitemap, wireframes y de
 Paleta Minimal Tech: marfil `#F6F2EA`, grafito `#2C2C2C`, salvia `#A3B18A`. Fuente Inter de Google Fonts. Diseño basado en el trabajo de Figma creado para este proyecto. No se utilizó un template externo.
 
 ## Uso de IA
-Se utilizó asistencia de IA para proponer contenido, documentación y generar una base de HTML, CSS y JavaScript. El diseño y los textos deben revisarse, corregirse y validarse por la autora antes de la entrega.
+Se utilizó asistencia de IA para proponer contenido, documentación y generar una base de HTML, CSS y JavaScript. El contenido y el funcionamiento del sitio fueron revisados y se aplicaron correcciones a partir de las pruebas de usabilidad.
 
 ## Publicación en GitHub Pages
 1. Subir los archivos al repositorio público en la raíz de la rama `main`.
@@ -45,9 +45,6 @@ Lighthouse Mobile (08/11/2026):
 - Accessibility: 96
 - Best Practices: 100
 - SEO: 100
-
-## Pendiente obligatorio
-Revisar los enlaces finales y verificar la correspondencia entre el sitio publicado y el diseño de Figma.
 
 ## Pruebas de usabilidad
 Se realizó una prueba de usabilidad con tres participantes utilizando el portfolio publicado en GitHub Pages.
@@ -73,3 +70,15 @@ Se identificó que faltaban archivos de la carpeta `assets` en el repositorio. S
 **Conclusión:**
 
 Las tareas pudieron completarse y la evaluación permitió detectar y corregir un problema real de visualización.
+
+## Evidencias y entregables
+
+- [Portfolio publicado](https://sofiferuader1.github.io/portfolio-minimal-tech/)
+- [Diseño y documentación en Figma](https://www.figma.com/design/sVJIfANZDJzBSLCdQxrMfx/)
+- [Captura Desktop](Desktop.png)
+- [Captura Tablet](Tablet.png)
+- [Captura Mobile](Mobile.png)
+
+El repositorio también incluye la presentación final en PDF y la captura de Lighthouse Mobile.
+
+Las pruebas de usabilidad y sus resultados se documentan en este README.
