@@ -22,7 +22,7 @@ HTML5, CSS3, JavaScript vanilla e Inter (Google Fonts). Sin frameworks JavaScrip
 Coffea y Cubri Seguros se presentan como proyectos académicos. TaskFlow es una propuesta **conceptual** y no una aplicación desarrollada. Los mockups de las tarjetas son conceptuales; pueden reemplazarse por capturas reales. El caso de estudio Coffea incorpora una ilustración conceptual creada con IA, identificada como tal y no como evidencia del proyecto original.
 
 ## Proceso UX/UI
-La investigación, proto-persona, benchmark, moodboard, sitemap, wireframes y design system se documentan en Figma. Las pruebas de usabilidad con tres personas están pendientes de realización y registro.
+La investigación, proto-persona, benchmark, moodboard, sitemap, wireframes y design system se documentan en Figma. Se realizaron pruebas de usabilidad con tres participantes. Las nueve tareas fueron completadas y se corrigió un problema de visualización en Coffea.
 
 ## Diseño y fuentes
 Paleta Minimal Tech: marfil `#F6F2EA`, grafito `#2C2C2C`, salvia `#A3B18A`. Fuente Inter de Google Fonts. Diseño basado en el trabajo de Figma creado para este proyecto. No se utilizó un template externo.
@@ -35,7 +35,6 @@ Se utilizó asistencia de IA para proponer contenido, documentación y generar u
 2. Abrir `Settings > Pages`.
 3. Elegir `Deploy from a branch`, `main` y carpeta `/(root)`.
 4. Guardar y esperar el despliegue automático. Cada push a `main` publicará los cambios.
-5. Pegar aquí la URL HTTPS definitiva.
 
 ## Contacto
 Los botones «Enviar email» y «Correo electrónico» abren Gmail en el navegador; la dirección visible conserva su enlace `mailto:` conforme a la consigna. LinkedIn y GitHub están enlazados a los perfiles proporcionados.
@@ -48,10 +47,9 @@ Lighthouse Mobile (08/11/2026):
 - SEO: 100
 
 ## Pendiente obligatorio
-Verificar enlaces del proyecto y completar, con evidencias reales, el caso Coffea y los resultados de usabilidad. Revisar la correspondencia final con Figma.
+Revisar los enlaces finales y verificar la correspondencia entre el sitio publicado y el diseño de Figma.
 
 ## Pruebas de usabilidad
-
 Se realizó una prueba de usabilidad con tres participantes utilizando el portfolio publicado en GitHub Pages.
 
 **Tareas evaluadas:**
