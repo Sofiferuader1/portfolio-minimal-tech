@@ -6,7 +6,7 @@ Portfolio web personal realizado como trabajo final de Diseño UX/UI 2026.
 https://sofiferuader1.github.io/portfolio-minimal-tech/
 
 ## Figma
-Pendiente: pegar el enlace público de visualización del archivo Figma.
+https://www.figma.com/design/sVJIfANZDJzBSLCdQxrMfx/Portfolio-UXUI-%E2%80%94-Sof%C3%ADa-Fern%C3%A1ndez-%E2%80%94-2026?node-id=5-34882&t=1UIIUSbAZsZ00pr3-1
 
 ## Tecnologías
 HTML5, CSS3, JavaScript vanilla e Inter (Google Fonts). Sin frameworks JavaScript ni constructores visuales.
